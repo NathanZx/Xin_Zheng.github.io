@@ -339,7 +339,7 @@ What this means is, if there is no resume data defined in [\_config.yml](_config
 
 [![CV Preview](readme_preview/cv.png)](https://alshedivat.github.io/al-folio/cv/)
 
----
+--- 
 
 ### People
 
